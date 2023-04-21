@@ -1,14 +1,60 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 1,
+      "title": "Table",
+      "image": "https://m.media-amazon.com/images/I/411kGNBQ4AL._AC_SX569_.jpg",
+      "price": 4000,
+      "rating": "4",
+      "about": "Great for home office, studio, bedroom and also kitchen as a dinning table.steel frame, powder coated finish, Dimension: 32 W x 16 D x 28 H"
+    },
+    {
+      "id": 2,
+      "title": "Chair",
+      "image": "https://m.media-amazon.com/images/I/716uYQ2049L._AC_SX522_.jpg",
+      "price": 6300,
+      "rating": "4",
+      "about": "Office desk chair upholstered in durable Puresoft PU; ideal for home office, work station or conference room use. Height-adjustable padded seat with adjustable seat angle, tilt control and padded armrests"
+    },
+    {
+      "id": 3,
+      "title": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/71Sa3dqTqzL._AC_SX466_.jpg",
+      "price": 90000,
+      "rating": "5",
+      "about": "Galaxy S23 Ultra is more than the next big step in mobile tech. With the highest camera resolution on a phone and stunning Night Mode powered by Nightography, you can share those big moments no matter the lighting. Write, sketch, edit, create and share from anywhere with a built-in S Pen."
+    },
+    {
+      "id": 4,
+      "title": "Book",
+      "image": "https://m.media-amazon.com/images/I/41T493g+UrL._SX307_BO1,204,203,200_.jpg",
+      "price": 750,
+      "rating": "5",
+      "about": "A bestseller since it was originally published in 1937, this hardcover edition of Napoleon Hill`s Think and Grow Rich teaches the famous Andrew Carnegie formula for money-making, based on the 13 proven steps to riches."
+    },
+    {
+      "id": 5,
+      "title": "Laptop",
+      "image": "https://m.media-amazon.com/images/I/81dRvbhb+wL._AC_SX466_.jpg",
+      "price": 48000,
+      "rating": "4",
+      "about": "Power that revolves around you. Streaming, chatting, and getting things done is way more fun when you find your perfect position. Flex, bend and flip from anywhere with a 360-degree hinge and long lasting battery life."
+    },
+    {
+      "id": 6,
+      "title": "Mouse",
+      "image": "https://m.media-amazon.com/images/I/61xgpXecLML._AC_SX679_.jpg",
+      "price": 2000,
+      "rating": "3",
+      "about": "The full-size Logitech Wireless Mouse M510 gives you more control, so you can do more with your mouse. The contoured shape with soft rubber grips gives you the support you need for all-day comfort. And you can do more, faster with three standard buttons, Back/Forward buttons and side-to-side scrolling plus zoom.2 AA batteries."
+    },
+    {
+      "id": 7,
+      "title": "KeyBoard",
+      "image": "https://m.media-amazon.com/images/I/61fie1u7QAL._AC_SX466_.jpg",
+      "price": 1500,
+      "rating": "4",
+      "about": "The stylish Logitech MK270 Wireless Keyboard and Mouse Combo is perfect for the home office or workplace. Ditch the touchpad for this full size keyboard and mouse. Easily connect using Logitech's plug and forget receiver—just plug it into the USB port, and you're ready to work."
+    }
+  ]
 }
